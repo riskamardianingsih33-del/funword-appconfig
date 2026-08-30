@@ -2,7 +2,7 @@
   "is_ads_enabled": false,
   "show_on_first_open": false,
   "skip_duration_seconds": 10,
-  "trigger_strategy": "after_seconds",
+  "trigger_strategy": "after_clicks",
   "trigger_clicks_count": 10000,
   "trigger_seconds_delay": 259200,
   "active_campaigns": [
@@ -32,9 +32,9 @@
       "meta_client_token": ""
     },
     "tiktok": {
-      "is_active": false,
-      "android_id": "",
-      "android_tiktok_id": "",
+      "is_active": true,
+      "android_id": "com.gamewow.mahjong",
+      "android_tiktok_id": "7679643421690069012",
       "apple_id": "",
       "apple_tiktok_id": "",
       "stage": "sandbox"
